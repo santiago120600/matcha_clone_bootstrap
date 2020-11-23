@@ -1,0 +1,63 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.title {
+    font-size: 57px;
+    font-weight: 700;
+    font-family: vesterbroextrabold, Arial, sans-serif;
+    margin-bottom: 24px;
+    color: #025157;
+    line-height: 55px;
+  }
+  
+  .subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    color: #46484c;
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    margin-bottom: 30px;
+    line-height: 32px;
+  }
+  
+  .medium-title {
+    font-size: 37px;
+    font-weight: 700;
+    font-family: vesterbroextrabold, Arial, sans-serif;
+    margin-bottom: 35px;
+    color: #025157;
+  }
+  
+  .mini-title {
+    font-weight: 500;
+    font-size: 24px;
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    color: #46484c;
+    white-space: nowrap;
+  }
+  
+  .text-mini {
+    font-size: 15px;
+    color: #7e7e7e;
+    font-family: "IBM Plex Sans", Arial, sans-serif;
+    font-weight: 400;
+  }
+
+  .opaco {
+    font-weight: 500;
+    font-size: 14px;
+    color: rgba(139, 139, 139, 8);
+    line-height: 20px;
+  }
+  
+  .mb-200{
+    margin-bottom: 200px;
+  }
+
+  .product-feature-img {
+    max-width: 38px;
+    height: auto;
+  }
